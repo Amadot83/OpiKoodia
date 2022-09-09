@@ -1,0 +1,40 @@
+body
+{
+    background-color: #ccd2d5;
+}
+.btn-primary
+{
+    background-color: #82ddc408;
+    border-color: #0d0d0d;
+}
+.btn-primary:hover
+{
+    background-color: #737a7a76;
+    border-color: #0d0d0d;
+}
+.container
+{
+    margin:auto;
+    background-color: rgb(245, 196, 106);
+    text-align:center;
+    border-radius: 60px;
+}
+.header
+{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.gameinfo
+{
+    font-family: sans-serif;
+    margin:auto;
+    text-align: center;
+    font-size: 18px;
+}
+.gamebox
+{
+    display:none;
+    margin:auto;
+    text-align: center;
+    font-size: 18px;
+}
