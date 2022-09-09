@@ -1,1 +1,1 @@
-# OpiKoodia
+# Traffic light app made with React
