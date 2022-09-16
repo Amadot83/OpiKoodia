@@ -1,1 +1,2 @@
-# OpiKoodia
+# Shopping app
+
